@@ -25,10 +25,18 @@
 
 ## 스크린샷
 녹화 및 반전 모드별 스크린샷:
-- 일반 모드: ![Not Record Mode](./data/Not_Record_Mode.png)
-- 좌우 반전 모드: ![Not Record Mode Fliped](./data/Not_Record_Mode_Fliped.png)
-- 녹화 모드: ![Record Mode](./data/Record_Mode.png)
-- 녹화 + 좌우 반전 모드: ![Record Mode Fliped](./data/Record_Mode_Fliped.png)
+- 일반 모드:
+
+![Not Record Mode](./data/Not_Record_Mode.png)
+- 좌우 반전 모드:
+
+![Not Record Mode Fliped](./data/Not_Record_Mode_Fliped.png)
+- 녹화 모드:
+
+![Record Mode](./data/Record_Mode.png)
+- 녹화 + 좌우 반전 모드:
+
+![Record Mode Fliped](./data/Record_Mode_Fliped.png)
 
 ## 샘플 영상
 - 일반 녹화 영상: [output.avi](./data/output.avi)
